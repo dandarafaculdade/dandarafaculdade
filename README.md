@@ -1,29 +1,29 @@
 <div align="center">
 
-# 👩‍💻 Olá! Eu sou a Dandara Tomalack
+# 👩‍💻 Hello! I'm Dandara Tomalack
 
-### Estudante de Sistemas de Informação | ABAP | SAP | Tecnologia 💻
+### Information Systems Student | ABAP | SAP | Technology 💻
 
 </div>
 
 ---
 
-### Sobre mim
+### About Me
 
-Oi! Tenho **19 anos**, sou uma pessoa comunicativa, bem-humorada e gosto de estar sempre aprendendo coisas novas.
-Gosto de **cachorros**, comidas gostosas e tecnologia!
+Hi! I'm **19 years old**, a communicative, cheerful person who is always interested in learning new things.
+I enjoy **dogs**, delicious food, and technology!
 
-Atualmente estou no **4º período de Sistemas de Informação** na **UNIMATER**, em **Pato Branco - PR**.
+I am currently in the **4th semester of Information Systems** at **UNIMATER**, in **Pato Branco - PR, Brazil**.
 
-Também trabalho no setor de **TI da Atlas Eletrodomésticos**, onde atuo com melhorias dentro do **SAP**, utilizando a linguagem **ABAP**. Meu trabalho é voltado principalmente para desenvolver soluções que facilitem e melhorem as atividades do dia a dia dos colaboradores da empresa.
+I also work in the **IT department at Atlas Eletrodomésticos**, where I develop improvements within **SAP** using **ABAP**. My work is mainly focused on creating solutions that help improve and simplify employees' daily activities.
 
 ---
 
-### 🎓 Minha trajetória
+### 🎓 My Background
 
-Antes da faculdade, cursei o **Ensino Médio integrado ao Técnico em Informática**, onde tive meus primeiros contatos com desenvolvimento e programação.
+Before college, I completed **High School integrated with a Technical Course in Information Technology**, where I had my first experiences with development and programming.
 
-Durante esse período, trabalhei com tecnologias como:
+During this period, I worked with technologies such as:
 
 <div align="center">
 
@@ -31,26 +31,26 @@ Durante esse período, trabalhei com tecnologias como:
 
 </div>
 
-Atualmente, venho ampliando meus conhecimentos principalmente com:
+Currently, I am expanding my knowledge mainly in:
 
 <div align="center">
 
-`ABAP` • `SAP` • `Git` • `GitHub` • `Desenvolvimento de Software`
+`ABAP` • `SAP` • `Git` • `GitHub` • `Software Development`
 
 </div>
 
 ---
 
-### Sobre este GitHub
+### About This GitHub
 
-Este perfil é destinado principalmente aos meus projetos e atividades da **faculdade**, sendo um espaço para aplicar, praticar e aprimorar os conhecimentos adquiridos durante as aulas.
+This profile is mainly dedicated to my **college projects and activities**, serving as a space to apply, practice, and improve the knowledge gained during classes.
 
-Aqui você poderá acompanhar um pouco da minha evolução na área de tecnologia. 💻✨
+Here, you can follow some of my progress and growth in the technology field. 💻✨
 
 ---
 
 <div align="center">
 
-### Sempre aprendendo, praticando e evoluindo!
+### Always learning, practicing, and improving!
 
 </div>
